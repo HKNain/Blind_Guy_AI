@@ -25,7 +25,7 @@ BlindVision AI is a **Python-based assistive system** that listens to user comma
    - Uses YOLOv8n object detection for real-time recognition.
 
 2. **Outdoor Mode** 🚶‍♂️  
-   - Continuously scans for obstacles (like poles, vehicles, etc.).
+   - Continuously scans for obstacles (like vehicles, etc.).
    - Alerts the user with audio warnings for safe navigation.
 
 ---
@@ -75,5 +75,40 @@ BlindVision AI is a **Python-based assistive system** that listens to user comma
 
 1. **Clone this repository**
 ```bash
-git clone https://github.com/yourusername/blindvision-ai.git
+git clone https://github.com/HKNain/Blind_Guy_AI.git
 cd blindvision-ai
+```
+
+## 🧑‍💻 Future Scope
+- 🌐 Migrate to an IoT-based wearable using Raspberry Pi or Jetson Nano
+
+- 🥽 Build into smart goggles with BLE modules
+
+- 🗺️ Integrate GPS-based path guidance and mapping
+
+## 💼 Business Model
+
+- One-time software purchase (Base Tier) : Users pay once to download and install the standard laptop 
+version                   
+with core features.
+### Tiered product upgrades 
+- Just like smartphones, users can purchase higher-tier versions (better accuracy, faster processing, improved interface) at a higher one-time price.
+- Institutional licensing and bulk access.
+- Multi-seat licenses for NGOs, schools, and care homes for centralized management
+- Hardware sales (future) 
+- Smart wearable goggles with built-in camera, onboard AI, and various models (basic to advanced) available for one-time purchase.
+  
+## Target Market
+
+- Visually impaired individuals.
+- NGOs, accessibility centers, special education institutes
+
+## 💙 Impact
+
+- Improves mobility and confidence of visually impaired users
+
+- Promotes independent living
+
+- Reduces dependence on others for daily navigation tasks
+
+- Contributes to inclusive AI for accessibility
